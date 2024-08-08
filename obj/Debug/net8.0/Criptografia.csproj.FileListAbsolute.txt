@@ -1,0 +1,14 @@
+C:\Users\daluz\source\repos\Criptografia\Criptografia\bin\Debug\net8.0\Criptografia.exe
+C:\Users\daluz\source\repos\Criptografia\Criptografia\bin\Debug\net8.0\Criptografia.deps.json
+C:\Users\daluz\source\repos\Criptografia\Criptografia\bin\Debug\net8.0\Criptografia.runtimeconfig.json
+C:\Users\daluz\source\repos\Criptografia\Criptografia\bin\Debug\net8.0\Criptografia.dll
+C:\Users\daluz\source\repos\Criptografia\Criptografia\bin\Debug\net8.0\Criptografia.pdb
+C:\Users\daluz\source\repos\Criptografia\Criptografia\obj\Debug\net8.0\Criptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daluz\source\repos\Criptografia\Criptografia\obj\Debug\net8.0\Criptografia.AssemblyInfoInputs.cache
+C:\Users\daluz\source\repos\Criptografia\Criptografia\obj\Debug\net8.0\Criptografia.AssemblyInfo.cs
+C:\Users\daluz\source\repos\Criptografia\Criptografia\obj\Debug\net8.0\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\daluz\source\repos\Criptografia\Criptografia\obj\Debug\net8.0\Criptografia.dll
+C:\Users\daluz\source\repos\Criptografia\Criptografia\obj\Debug\net8.0\refint\Criptografia.dll
+C:\Users\daluz\source\repos\Criptografia\Criptografia\obj\Debug\net8.0\Criptografia.pdb
+C:\Users\daluz\source\repos\Criptografia\Criptografia\obj\Debug\net8.0\Criptografia.genruntimeconfig.cache
+C:\Users\daluz\source\repos\Criptografia\Criptografia\obj\Debug\net8.0\ref\Criptografia.dll
